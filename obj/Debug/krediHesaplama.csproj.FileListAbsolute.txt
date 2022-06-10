@@ -1,0 +1,11 @@
+C:\Users\Hasan Göksel\Desktop\DERS\3.DÖNEM\GÖRSEL PROGRAMLAMA\hasanGoksel19219040\hasanGoksel19219040\bin\Debug\hasanGoksel19219040.exe.config
+C:\Users\Hasan Göksel\Desktop\DERS\3.DÖNEM\GÖRSEL PROGRAMLAMA\hasanGoksel19219040\hasanGoksel19219040\bin\Debug\hasanGoksel19219040.exe
+C:\Users\Hasan Göksel\Desktop\DERS\3.DÖNEM\GÖRSEL PROGRAMLAMA\hasanGoksel19219040\hasanGoksel19219040\bin\Debug\hasanGoksel19219040.pdb
+C:\Users\Hasan Göksel\Desktop\DERS\3.DÖNEM\GÖRSEL PROGRAMLAMA\hasanGoksel19219040\hasanGoksel19219040\obj\Debug\krediHesaplama.csproj.AssemblyReference.cache
+C:\Users\Hasan Göksel\Desktop\DERS\3.DÖNEM\GÖRSEL PROGRAMLAMA\hasanGoksel19219040\hasanGoksel19219040\obj\Debug\krediHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan Göksel\Desktop\DERS\3.DÖNEM\GÖRSEL PROGRAMLAMA\hasanGoksel19219040\hasanGoksel19219040\obj\Debug\krediHesaplama.Form1.resources
+C:\Users\Hasan Göksel\Desktop\DERS\3.DÖNEM\GÖRSEL PROGRAMLAMA\hasanGoksel19219040\hasanGoksel19219040\obj\Debug\hasanGoksel19219040.Properties.Resources.resources
+C:\Users\Hasan Göksel\Desktop\DERS\3.DÖNEM\GÖRSEL PROGRAMLAMA\hasanGoksel19219040\hasanGoksel19219040\obj\Debug\krediHesaplama.csproj.GenerateResource.cache
+C:\Users\Hasan Göksel\Desktop\DERS\3.DÖNEM\GÖRSEL PROGRAMLAMA\hasanGoksel19219040\hasanGoksel19219040\obj\Debug\krediHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Göksel\Desktop\DERS\3.DÖNEM\GÖRSEL PROGRAMLAMA\hasanGoksel19219040\hasanGoksel19219040\obj\Debug\hasanGoksel19219040.exe
+C:\Users\Hasan Göksel\Desktop\DERS\3.DÖNEM\GÖRSEL PROGRAMLAMA\hasanGoksel19219040\hasanGoksel19219040\obj\Debug\hasanGoksel19219040.pdb
